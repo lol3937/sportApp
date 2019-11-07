@@ -1,0 +1,13 @@
+com\mycompany\sportapp\Beans\SportAppBean.class
+com\mycompany\sportapp\ConnectionFactory.class
+com\mycompany\sportapp\resources\JavaEE8Resource1.class
+com\mycompany\sportapp\Enteties\Game.class
+com\mycompany\sportapp\filters\AuthFilter.class
+com\mycompany\sportapp\filters\PoweredFilter.class
+com\mycompany\sportapp\JAXRSConfiguration.class
+com\mycompany\sportapp\Beans\TeamsBean.class
+com\mycompany\sportapp\Enteties\Credentials.class
+com\mycompany\sportapp\resources\GameResource.class
+com\mycompany\sportapp\Beans\CredentialsBean.class
+com\mycompany\sportapp\Enteties\Team.class
+com\mycompany\sportapp\resources\TeamResource.class
